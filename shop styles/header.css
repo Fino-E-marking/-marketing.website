@@ -3,6 +3,7 @@
     height: px;
     display: flex;
     align-items: center;
+    margin-top: 30px;
 }
 .header{
     display: flex;
@@ -111,7 +112,7 @@
     border-style: solid;
     border-color: rgb(114, 113, 113);
     box-shadow: inset 1px 2px 4px rgba(0, 0, 0, 0.2);
-    margin-left: -17px;
+    margin-left: -1px;
     margin-right: 15px;
 
 }
@@ -125,7 +126,7 @@
     flex: 1;
     padding-left: 20px;
     font-size: 20px;
-    border-radius: 20px;
+    border-radius: 20px 0px 0px 20px;
     border-style: solid;
     box-shadow: inset 1px 2px 4px rgba(0, 0, 0, 0.2);
     width: 20px;
